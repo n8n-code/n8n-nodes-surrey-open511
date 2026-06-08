@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevSurreyOpen511",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-surrey-open511"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-surrey-open511?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
